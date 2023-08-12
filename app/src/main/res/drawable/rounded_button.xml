@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="240dp"/> <!-- Define o raio dos cantos (altere conforme desejado) -->
+    <solid android:color="#000000"/> <!-- Define a cor de preenchimento do botão como preto (#000000) -->
+</shape>
+
